@@ -4,3 +4,4 @@ package.json
 systemjs.config.js
 tsconfig.json
 typings.json
+.DS_STORE

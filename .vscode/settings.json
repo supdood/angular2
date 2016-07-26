@@ -5,6 +5,13 @@
         "**/.svn": true,
         "**/.DS_Store": true,
         "**/*.js": { "when": "$(basename).ts"},
-        "**/*.js.map": true
+        "**/*.js.map": true,
+        "package.json": true,
+        "systemjs.config.js": true,
+        "typings.json": true,
+        "tsconfig.json": true,
+        "node_modules": true,
+        "typings": true,
+        ".vscode": true
     }
 }
